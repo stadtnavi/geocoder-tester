@@ -1,0 +1,96 @@
+comment;query;expected_coordinate;expected_housenumber;expected_city;expected_postcode;expected_country;lang
+house;25/2 Benzstraße Herrenberg (Stadt);48.6018337, 8.867583795945528, 800;25/2;Herrenberg;71083;Deutschland;de
+house;48 Schwedenstraße Altingen;48.557574, 8.9062707, 800;48;Ammerbuch;72119;Deutschland;de
+house;15 Daimlerstraße Herrenberg (Stadt);48.603564, 8.870127914868021, 800;15;Herrenberg;71083;Deutschland;de
+house;8 Römerstraße Altingen;48.5610945, 8.9096851, 800;8;Ammerbuch;72119;Deutschland;de
+house;97 Hohenzollernstraße Haslach;48.58427105, 8.833404192808445, 800;97;Herrenberg;71083;Deutschland;de
+house;15 Rigipsstraße Gültstein;48.5770198, 8.8843481, 800;15;Herrenberg;71083;Deutschland;de
+house;88 Grabenstraße Rohrau;48.6368092, 8.895110222721602, 800;88;Gärtringen;71116;Deutschland;de
+house;8 Längenholz Herrenberg (Stadt);48.58769075, 8.875360583505701, 800;8;Herrenberg;71083;Deutschland;de
+house;52 Schwedenstraße Altingen;48.5578992, 8.906734761828854, 800;52;Ammerbuch;72119;Deutschland;de
+house;10 Keltenstraße Kuppingen;48.61545845, 8.840431060932307, 800;10;Herrenberg;71083;Deutschland;de
+house;90 Gänsbergring Gültstein;48.5758156, 8.8763321, 800;90;Herrenberg;71083;Deutschland;de
+house;1 Jettinger Straße Öschelbronn;48.5525316, 8.8249698, 800;1;Gäufelden;71126;Deutschland;de
+house;112 Beim Bahnhof Breitenholz;48.5606608, 8.949487148792613, 800;112;Ammerbuch;72119;Deutschland;de
+house;58 Altinger Straße Gültstein;48.572387750000004, 8.88340202968183, 800;58;Gültstein;71083;Deutschland;de
+house;77 Rheinstraße Oberjesingen;48.6219411, 8.828216634952634, 800;77;Herrenberg;71083;Deutschland;de
+house;1 Karpatenstraße Gültstein;48.5781695, 8.878171688362979, 800;1;Herrenberg;71083;Deutschland;de
+house;58 Altinger Straße Gültstein;48.572387750000004, 8.88340202968183, 800;58;Gültstein;71083;Deutschland;de
+house;9 Schießmauer Herrenberg (Stadt);48.5987976, 8.861898897476461, 800;9;Herrenberg;71083;Deutschland;de
+house;11 Hertzstraße Gültstein;48.576429899999994, 8.896956395867452, 800;11;Herrenberg;71083;Deutschland;de
+house;16 Siedlerstraße Nebringen;48.560198, 8.8548402, 800;16;Gäufelden;71126;Deutschland;de
+house;15 Daimlerstraße Herrenberg (Stadt);48.603564, 8.870127914868021, 800;15;Herrenberg;71083;Deutschland;de
+house;4 Eichenstraße Nebringen;48.5656945, 8.849198008629108, 800;4;Gäufelden;71126;Deutschland;de
+house;6 Siemensstraße Rohrau;48.63649495, 8.91129075, 800;6;Gärtringen;71116;Deutschland;de
+house;80 Sindlinger Straße Nebringen;48.5668941, 8.827914533956527, 800;80;Gäufelden;71126;Deutschland;de
+house;14 Sandweg Altingen;48.56870715, 8.914892064681915, 800;14;Ammerbuch;72119;Deutschland;de
+house;2 Heerstraße Gültstein;48.5776084, 8.8896915, 800;2;Herrenberg;71083;Deutschland;de
+house;18 Silcherstraße Herrenberg (Stadt);48.5909534, 8.8641507, 800;18;Herrenberg;71083;Deutschland;de
+house;41 Hartstraße Altingen;48.55908915, 8.916255515004433, 800;41;Ammerbuch;72119;Deutschland;de
+house;3 Hertzstraße Gültstein;48.576921999999996, 8.891054554710273, 800;3;Herrenberg;71083;Deutschland;de
+house;43 Oberjesinger Straße Kuppingen;48.612941, 8.842352, 800;43;Herrenberg;71083;Deutschland;de
+house;100 Hofstattstraße Rohrau;48.62143795, 8.924668481239319, 800;100;Gärtringen;71116;Deutschland;de
+house;30 Moselstraße Oberjesingen;48.6200782, 8.8275682, 800;30;Herrenberg;71083;Deutschland;de
+house;11 Keltenstraße Kuppingen;48.6147889, 8.837963503564453, 800;11;Herrenberg;71083;Deutschland;de
+house;18/1 Schießtäle Herrenberg (Stadt);48.5945827, 8.8579752, 800;18/1;Herrenberg;71083;Deutschland;de
+house;1 Industriestraße Rohrau;48.629880799999995, 8.92497220234463, 800;1;Gärtringen;71116;Deutschland;de
+house;4 Zeppelinstraße Herrenberg (Stadt);48.600218299999995, 8.86533786246662, 800;4;Herrenberg;71083;Deutschland;de
+house;20 Schollerstraße Nebringen;48.5562568, 8.842508717664906, 800;20;Gäufelden;71126;Deutschland;de
+house;48 Siedlerstraße Nebringen;48.5602268, 8.858652, 800;48;Gäufelden;71126;Deutschland;de
+house;43 In den Böden Nebringen;48.5554741, 8.8537098, 800;43;Gäufelden;71126;Deutschland;de
+house;1 Raiffeisenstraße Nebringen;48.5589873, 8.8524815, 800;1;Gäufelden;71126;Deutschland;de
+house;80 Sindlinger Straße Nebringen;48.5668941, 8.827914533956527, 800;80;Gäufelden;71126;Deutschland;de
+house;1 Weildorf Nebringen;48.556067, 8.84065476401743, 800;1;Gäufelden;71126;Deutschland;de
+house;70 Kappstraße Gültstein;48.57567365, 8.88946430060014, 800;70;Herrenberg;71083;Deutschland;de
+house;17 Sindlinger Straße Nebringen;48.5628535, 8.8470075, 800;17;Gäufelden;71126;Deutschland;de
+house;2 Hertzstraße Gültstein;48.575432649999996, 8.891549268767587, 800;2;Herrenberg;71083;Deutschland;de
+house;62b Grabenstraße Rohrau;48.6370743, 8.8974124, 800;62b;Gärtringen;71116;Deutschland;de
+house;9 Wiesenstraße Altingen;48.562458649999996, 8.903874268897845, 800;9;Ammerbuch;72119;Deutschland;de
+house;54 Müneckstraße Breitenholz;48.5712441, 8.962516902079006, 800;54;Ammerbuch;72119;Deutschland;de
+house;11 Jahnstraße Öschelbronn;48.5515118, 8.820945104848768, 800;11;Gäufelden;71126;Deutschland;de
+house;2 Waldstraße Nebringen;48.56475665, 8.847273049999998, 800;2;Gäufelden;71126;Deutschland;de
+house;12 Marie-Curie-Straße Gültstein;48.5745725, 8.8961912, 800;12;Herrenberg;71083;Deutschland;de
+locality;16 Plapphalde Haslach;48.5870195, 8.843098637403852, 800;16;Herrenberg;71083;Deutschland;de
+house;20 Schollerstraße Nebringen;48.5562568, 8.842508717664906, 800;20;Gäufelden;71126;Deutschland;de
+house;1 Weildorf Nebringen;48.556067, 8.84065476401743, 800;1;Gäufelden;71126;Deutschland;de
+house;1/1 Hewlett-Packard-Straße Gültstein;48.5807561, 8.8920086, 800;1/1;Herrenberg;71083;Deutschland;de
+house;16 Siedlerstraße Nebringen;48.560198, 8.8548402, 800;16;Gäufelden;71126;Deutschland;de
+house;55 Zeppelinstraße Entringen;48.556591, 8.960630015970818, 800;55;Ammerbuch;72119;Deutschland;de
+house;1 Amselweg Herrenberg (Stadt);48.5899154, 8.8614046, 800;1;Herrenberg;71083;Deutschland;de
+house;11 Keltenstraße Kuppingen;48.6147889, 8.837963503564453, 800;11;Herrenberg;71083;Deutschland;de
+house;10 Schloßstraße Sindlingen;48.5693577, 8.810145043523757, 800;10;Jettingen;71131;Deutschland;de
+house;88 Grabenstraße Rohrau;48.6368092, 8.895110222721602, 800;88;Gärtringen;71116;Deutschland;de
+house;1 Weildorf Nebringen;48.556067, 8.84065476401743, 800;1;Gäufelden;71126;Deutschland;de
+house;2 Hewlett-Packard-Straße Gültstein;48.5822537, 8.8926361, 800;2;Herrenberg;71083;Deutschland;de
+house;15 Robert-Bosch-Straße Rohrau;48.6363835, 8.909133886283307, 800;15;Gärtringen;71116;Deutschland;de
+house;3 Berliner Straße Herrenberg (Stadt);48.59385385, 8.856316476936918, 800;3;Herrenberg;71083;Deutschland;de
+house;62a Grabenstraße Rohrau;48.6368193, 8.8978222, 800;62a;Gärtringen;71116;Deutschland;de
+house;19 Gipswerkstraße Kayh;48.57300015, 8.915534634782484, 800;19;Herrenberg;71083;Deutschland;de
+house;9 Grabenstraße Rohrau;48.6375181, 8.9034252, 800;9;Gärtringen;71116;Deutschland;de
+house;6 Schießmauer Herrenberg (Stadt);48.5971897, 8.863687868204037, 800;6;Herrenberg;71083;Deutschland;de
+house;19 Hagenring Altingen;48.5658702, 8.905024537789405, 800;19;Ammerbuch;72119;Deutschland;de
+house;6 Zeppelinstraße Herrenberg (Stadt);48.6000858, 8.864645571687522, 800;6;Herrenberg;71083;Deutschland;de
+house;57 Römerweg Kuppingen;48.61140915, 8.851078095049678, 800;57;Herrenberg;71083;Deutschland;de
+house;2 Eisenbahnstraße Nebringen;48.5599048, 8.8480275, 800;2;Gäufelden;71126;Deutschland;de
+house;10 Schloßstraße Sindlingen;48.5693577, 8.810145043523757, 800;10;Jettingen;71131;Deutschland;de
+house;33 Hohenzollernstraße Haslach;48.5829538, 8.8397126, 800;33;Herrenberg;71083;Deutschland;de
+house;11 Keltenstraße Kuppingen;48.6147889, 8.837963503564453, 800;11;Herrenberg;71083;Deutschland;de
+house;1 Weildorf Nebringen;48.556067, 8.84065476401743, 800;1;Gäufelden;71126;Deutschland;de
+house;97 Hohenzollernstraße Haslach;48.5843935, 8.8336527, 800;97;Herrenberg;71083;Deutschland;de
+house;18 Rheinstraße Oberjesingen;48.622630099999995, 8.828886827089338, 800;18;Oberjesingen;71083;Deutschland;de
+house;15 Hertzstraße Gültstein;48.5753877, 8.8962805, 800;15;Herrenberg;71083;Deutschland;de
+house;3 Hewlett-Packard-Straße Gültstein;48.5819282, 8.889666600428846, 800;3;Herrenberg;71083;Deutschland;de
+house;33 Schießtäle Herrenberg (Stadt);48.592182199999996, 8.854641069408544, 800;33;Herrenberg;71083;Deutschland;de
+house;9 Wiesenstraße Altingen;48.562458649999996, 8.903874268897845, 800;9;Ammerbuch;72119;Deutschland;de
+house;1 Jettinger Straße Öschelbronn;48.5525316, 8.8249698, 800;1;Gäufelden;71126;Deutschland;de
+locality;16 Plapphalde Haslach;48.5870195, 8.843098637403852, 800;16;Herrenberg;71083;Deutschland;de
+house;2 Marie-Curie-Straße Gültstein;48.5746778, 8.8941479, 800;2;Herrenberg;71083;Deutschland;de
+house;13 Würmstraße Oberjesingen;48.622959249999994, 8.838719752631494, 800;13;Herrenberg;71083;Deutschland;de
+house;11 Keltenstraße Kuppingen;48.6147889, 8.837963503564453, 800;11;Herrenberg;71083;Deutschland;de
+house;4 Im Pfarrgäßle Oberjesingen;48.625681099999994, 8.836575427842961, 800;4;Herrenberg;71083;Deutschland;de
+house;19 Rosenstraße Altingen;48.5615517, 8.9064545, 800;19;Ammerbuch;72119;Deutschland;de
+house;2 Heerstraße Gültstein;48.5776186, 8.8888686, 800;2;Herrenberg;71083;Deutschland;de
+house;2 Unter dem Aischbächle Sägmühle;48.5696485, 8.8894308, 800;2;Herrenberg;71083;Deutschland;de
+house;2 Jahnweg Herrenberg (Stadt);48.59918515, 8.867285946731734, 800;2;Herrenberg;71083;Deutschland;de
+house;6 Bei der Schießmauer Entringen;48.5574596, 8.9602102, 800;6;Ammerbuch;72119;Deutschland;de
+house;100 Hofstattstraße Gärtringen-Rohrau;48.6215997, 8.9249399, 800;100;Gärtringen;71116;Deutschland;de
