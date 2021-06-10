@@ -1,0 +1,10 @@
+comment;query;lon;lat;expected_housenumber;expected_street;expected_city;lang;limit
+test house number and street;Derendinger Stra 104;8.86487934;48.5964194;104;Derendinger Straße;Tübingen;de;
+test house number and street;Derendin Stra 104;8.86487934;48.5964194;104;Derendinger Straße;Tübingen;de;
+test house number and street;Derendinger Stra 62;8.86487934;48.5964194;62;Derendinger Straße;Tübingen;de;
+test house number and street;Derendinger Stra 28;8.86487934;48.5964194;28;Derendinger Straße;Tübingen;de;
+test house number and street;Derendinger Stra 20;8.86487934;48.5964194;20;Derendinger Straße;Tübingen;de;
+test house number and street;Schelling Straße 37;8.86487934;48.5964194;37;Schellingstraße;Tübingen;de;5
+test house number and street;SchellingStra 37;8.86487934;48.5964194;37;Schellingstraße;Tübingen;de;
+test house number and street;Moltke straße 21;8.86487934;48.5964194;21;Moltkestraße;Gärtringen;de;
+test house number and street;62b Grabenstraße Rohrau;8.86487934;48.5964194;62b;Grabenstraße;Gärtringen;de;3
