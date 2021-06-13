@@ -2,7 +2,7 @@
 
 Run search queries against a geocoder that supports [geocodejson spec](https://github.com/geocoders/geocodejson-spec).
 
-## Intalling
+## Installing
 
 - create a python >= 3.4 [virtualenv](http://docs.python-guide.org/en/latest/dev/virtualenvs/) environment
 - `git clone https://github.com/geocoders/geocoder-tester && cd geocoder-tester`
@@ -38,7 +38,7 @@ How can I stop at first failing test?
 
 Can I change the api URL I'm testing against?
 
-    py.test --api-url http://photon.komoot.de/api/
+    py.test --api-url http://photon.komoot.de/api/ --api-type photon
 
 Can I limit the number of tests to be run (even if my filter select thousands
 of tests) ?
@@ -87,17 +87,22 @@ They are normal python tests. Just note that you have two utils in `base.py`:
 
 ### CSV
 
-One column is mandatory: `query`, where you store the query you make.
+```csv
+comment;query;lon;lat;expected_housenumber;expected_street;expected_city;lang;limit
+```
+
+One column is mandatory: `query`, where you store the query you make.  
 Then you can add as many `expected_xxx` columns you want, according to what
 you want to test. For example, to test the name in the result, you will store
 the expected value in the column `expected_name`; for an `osm_id` it will be
-`expected_osm_id`, and so on. Note on `expected_coordinate` format: it should be
+`expected_osm_id`, and so on.  
+Note on `expected_coordinate` format: it should be
 of the form `lat,lon,tolerated deviation in meters`, e.g. `51.0,10.3,700`.
 
 Optional columns:
 * `limit`: decide how many results you want to look at for finding your result
-(defaul: 1)
-* `lat`, `lon`: if you want to add a center for the search
+(default: 1)
+* `lat`, `lon`: if you want to add a center for the search (location bias)
 * `comment`: if you want to take control of the ouput of the test in the
 command line
 * `lang`: language
