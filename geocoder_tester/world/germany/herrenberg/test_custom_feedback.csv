@@ -3,7 +3,7 @@ test house number and street;Derendinger Stra 104;8.86487934;48.5964194;104;Dere
 test house number and street;Derendin Stra 104;8.86487934;48.5964194;104;Derendinger Straße;Tübingen;;de;
 test house number and street;Derendinger Stra 62;8.86487934;48.5964194;62;Derendinger Straße;Tübingen;;de;
 test house number and street;Derendinger Stra 28;8.86487934;48.5964194;28;Derendinger Straße;Tübingen;;de;
-test house number and street;Derendinger Stra 20;8.86487934;48.5964194;20;Derendinger Straße;Tübingen;;de;
+test house number and street;Derendinger Stra 22;8.86487934;48.5964194;22;Derendinger Straße;Tübingen;;de;
 test house number and street;Schelling Straße 37;8.86487934;48.5964194;37;Schellingstraße;Tübingen;;de;5
 test house number and street;SchellingStra 37;8.86487934;48.5964194;37;Schellingstraße;Tübingen;;de;
 test house number and street;Moltke straße 21;8.86487934;48.5964194;21;Moltkestraße;Gärtringen;;de;
@@ -17,4 +17,6 @@ reported;E-bikes station, Herrenberg Bahnhof;8.86487934;48.5964194;;;Vaihingen a
 reported;VHS;8.86487934;48.5964194;;;Herrenberg;48.5940213,8.8735124,800;de;
 reported;Stadtarchiv;8.86487934;48.5964194;;;Herrenberg;48.592641,8.87408,800;de;
 reported;Stadtbibliothek;8.86487934;48.5964194;;;Mötzingen;48.533602,8.7748135,800;de;
-reported;Krankenhaus Herrenberg;8.86487934;48.5964194;;;Herrenberg;48.5920188,8.8769826,800;de;
+reported (synonyms);Krankenhaus Herrenberg;8.86487934;48.5964194;;;Herrenberg;48.5920188,8.8769826,800;de;
+reported (synonyms);Klinikum Herrenberg;8.86487934;48.5964194;;;Herrenberg;48.5920188,8.8769826,800;de;
+

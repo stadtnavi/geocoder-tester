@@ -49,10 +49,8 @@ house;Altinger Jägerlinde;8.86487934;48.5964194;48.5595892, 8.9337739, 800;;Deu
 street;Talrainweg;8.86487934;48.5964194;48.5887788, 8.9371461, 800;;Deutschland;de
 street;Gültsteiner Straße;8.86487934;48.5964194;48.5595814, 8.8799246, 800;;Deutschland;de
 house;Asch;8.86487934;48.5964194;48.56496625, 8.908561495824225, 800;;Deutschland;de
-street;Feldweg 614;8.86487934;48.5964194;48.5266298, 8.9018597, 800;;Deutschland;de
 street;Altenhausgasse;8.86487934;48.5964194;48.6260007, 8.8379801, 800;;Deutschland;de
 street;Herdweg;8.86487934;48.5964194;48.5557482, 8.8090037, 800;;Deutschland;de
-street;Talstraße;8.86487934;48.5964194;48.6816756, 8.9073539, 800;;Deutschland;de
 street;Grünplattweg;8.86487934;48.5964194;48.6818833, 8.7900811, 800;;Deutschland;de
 house;Mischwald;8.86487934;48.5964194;48.5926866, 8.8218804, 800;;Deutschland;de
 street;Bollstraße;8.86487934;48.5964194;48.525057, 8.9154253, 800;;Deutschland;de
@@ -83,9 +81,8 @@ street;Jauenweg;8.86487934;48.5964194;48.5287241, 8.9271445, 800;;Deutschland;de
 house;Gas-Druckregelanlage Altingen;8.86487934;48.5964194;48.55866695, 8.92459108097015, 800;;Deutschland;de
 house;Insektenhotel;8.86487934;48.5964194;48.6860675, 8.9259532, 800;;Deutschland;de
 house;Kochhartgraben und Ammertalhänge;8.86487934;48.5964194;48.54049555, 8.904950544036954, 800;;Deutschland;de
-street;Bodenseeautobahn;8.86487934;48.5964194;48.5463236, 8.8893049, 800;;Deutschland;de
+street (using reg_name);Bodenseeautobahn;8.86487934;48.5964194;48.5463236, 8.8893049, 800;;Deutschland;de
 street;Alzentalstraße;8.86487934;48.5964194;48.5917148, 8.8669559, 800;;Deutschland;de
-street;Feldweg 614;8.86487934;48.5964194;48.5266298, 8.9018597, 800;;Deutschland;de
 street;Elbenstraße;8.86487934;48.5964194;48.6215998, 8.8346018, 800;;Deutschland;de
 street;Brandplattenweg;8.86487934;48.5964194;48.5836145, 8.9743254, 800;;Deutschland;de
 street;Hinterhagstraße;8.86487934;48.5964194;48.6773938, 8.8948598, 800;;Deutschland;de
@@ -94,7 +91,6 @@ street;Sontheimer Straße;8.86487934;48.5964194;48.5111916, 8.8736518, 800;;Deut
 street;Tannenweg;8.86487934;48.5964194;48.6225803, 8.8051221, 800;;Deutschland;de
 street;Roseckstraße;8.86487934;48.5964194;48.5078853, 8.8866144, 800;;Deutschland;de
 house;Schloß Sindlingen;8.86487934;48.5964194;48.5693577, 8.810145043523757, 800;;Deutschland;de
-street;Bodenseeautobahn;8.86487934;48.5964194;48.5937907, 8.8967988, 800;;Deutschland;de
 house;Kaiser;8.86487934;48.5964194;48.51989445, 8.967526305071354, 800;;Deutschland;de
 street;Im Eichenpfädle;8.86487934;48.5964194;48.6963361, 8.9571495, 800;;Deutschland;de
 street;Heubergring;8.86487934;48.5964194;48.5702334, 8.785224, 800;;Deutschland;de
