@@ -33,11 +33,11 @@ house;Fischer-Hütte;8.86487934;48.5964194;48.5885656, 8.9350448, 800;;Deutschla
 house;Kirchweg;8.86487934;48.5964194;48.6861592, 8.8985261, 800;;Deutschland;de
 street;Haldenweg;8.86487934;48.5964194;48.6856431, 8.8949292, 800;;Deutschland;de
 street;Holunderstraße;8.86487934;48.5964194;48.5762988, 8.8737027, 800;;Deutschland;de
-street;Kayher Talsträßle;8.86487934;48.5964194;48.5898575, 8.9297378, 800;;Deutschland;de
+forrest path;Kayher Talsträßle;8.86487934;48.5964194;48.5898575, 8.9297378, 2000;;Deutschland;de
 street;Pirolstraße;8.86487934;48.5964194;48.5050943, 8.9330402, 800;;Deutschland;de
 house;Boltzplatz mit Toren;8.86487934;48.5964194;48.681403450000005, 8.872873396004316, 800;;Deutschland;de
 locality;Öfele;8.86487934;48.5964194;48.5788466, 8.8012738, 800;;Deutschland;de
-street;Albert-Schweitzer-Straße;8.86487934;48.5964194;48.697504, 8.9644106, 800;;Deutschland;de
+long street;Albert-Schweitzer-Straße;8.86487934;48.5964194;48.697504, 8.9644106, 1000;;Deutschland;de
 house;Härenslochweg Süd;8.86487934;48.5964194;48.5670693, 8.9712244, 800;;Deutschland;de
 street;Wurmlinger Straße;8.86487934;48.5964194;48.5212693, 8.9643967, 800;;Deutschland;de
 street;Deckenpfronner Weg;8.86487934;48.5964194;48.6225136, 8.7802223, 800;;Deutschland;de
