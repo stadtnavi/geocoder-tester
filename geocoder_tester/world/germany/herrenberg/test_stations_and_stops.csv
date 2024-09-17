@@ -1,0 +1,7 @@
+comment;query;lon;lat;expected_osm_value;expected_city;expected_coordinate;lang;limit
+Böblingen should return Böblingen Bahnhof;Böblingen;8.86487934;48.5964194;station;Böblingen;48.6880440, 9.0047319,500;de;3
+Stuttgart should return Stuttgart Hbf;Stuttgart;8.86487934;48.5964194;station;Stuttgart;48.7856099, 9.1833959,500;de;3
+Herrenberg should return Herrenberg Bahnhof;Herrenberg;8.86487934;48.5964194;station;Herrenberg;48.5940590, 8.8629217,500;de;3
+
+
+
